@@ -66,3 +66,7 @@ mark.black {
   background: #444;
   color: #DFDFDF;
 }
+
+.imagecenter {
+  text-align: center;
+}
