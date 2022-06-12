@@ -69,6 +69,7 @@ mark.black {
 
 .imagecenter {
   text-align: center;
+
 }
 
 .link {
@@ -81,4 +82,8 @@ mark.black {
   text-decoration: none;
   color: #AAA;
   background-color: #FFF;
+}
+
+.size16 {
+  font-size: 18px;
 }
