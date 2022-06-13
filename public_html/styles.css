@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 body{
-  padding-top:60px;
+  padding-top:8vh;
   background-color: #282A35;
   color: #DFDFDF;
   padding-left: 10vw;
@@ -36,7 +36,7 @@ input{
   text-align: center;
   padding: 2.5vh 10vw;
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 3.2vw;
   color: #DFDFDF;
 }
 
